@@ -1,0 +1,15 @@
+    2  Type is not yet known. Keep as the 1st element.
+    7  Text that lives inside a column.
+    6  Text that spans more than one column.
+    12 Text that is in a cross-column pull-out region.
+    9  Partition belonging to an equation region.
+    16 Partition belonging to an inline equation region.
+    8  Partition belonging to a table region.
+    5  Text-line runs vertically.
+    11 Text that belongs to an image.
+    3  Image that lives inside a column.
+    4  Image that spans more than one column.
+    35 Image in a cross-column pull-out region.
+    19  Horizontal Line.
+    23  Vertical Line.
+    32  Lies outside of any column.
